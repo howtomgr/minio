@@ -1,0 +1,62 @@
+{
+  "category": "object-storage",
+  "created_date": "2025-09-15T22:48:58.216631",
+  "default_ports": [
+    80,
+    443,
+    9000,
+    9001
+  ],
+  "dependencies": [],
+  "description": "MinIO is a free and open-source high-performance object storage server compatible with Amazon S3. MinIO provides enterprise-grade object storage that is 100% open source and S3 compatible, serving as a powerful alternative to Amazon S3, Azure Blob Storage, or Google Cloud Storage without vendor lock-in",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/object-storage/minio",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/object-storage/minio",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.216657",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "minio",
+  "repository_url": "https://github.com/howtomgr/minio",
+  "spec_version": "2.0",
+  "subcategory": "object-storage",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "object-storage",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "MinIO Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/object-storage/minio"
+}
